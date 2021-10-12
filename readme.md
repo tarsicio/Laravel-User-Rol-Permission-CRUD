@@ -1,3 +1,13 @@
+Sistema de Seguridad versión 1.0 creado en Octubre 2016.
+
+puede ver algunas caracteristicas en
+
+http://appmovilvenezuela.blogspot.com/2016/10/laravel-5.html
+
+Pronto disponible la Versión 2.0
+
+del proyecto HORUS-VENEZUELA, sistema base de seguridad para Laravel 8, PHP 7.4
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
