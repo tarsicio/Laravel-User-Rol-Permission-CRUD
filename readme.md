@@ -8,6 +8,8 @@ Pronto disponible la Versión 2.0
 
 del proyecto HORUS-VENEZUELA, sistema base de seguridad para Laravel 8, PHP 7.4
 
+el cual sustituye la versión 1.0, esperala...
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
